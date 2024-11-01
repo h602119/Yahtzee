@@ -1,7 +1,19 @@
 
 PART 1:
+<<<<<<< HEAD
   * Get Highest number of equal dices
+=======
+ * Get Highest number of equal dice
+>>>>>>> e811d7d0f0c49b8deadb09c209c548d883fe1146
 
 PART 2:
-  * Select best combination
+ * Select best combination
+
+CONSTRAINTS (Background knowledge):
+ * The agent has 5 unbias dice with equal probability for side 1-6 when it rolls.
+ * Each turn the agent gets three rolls of all dice to get as good result as it can.
+ * Agent chooses which dice to hold, and which to roll.
+ * If the agent is not satisfied with the result, it can set a field as empty.
+ * Once a score has been given to a field, this field cannot be chosen again. It is set to Avaiable = FALSE.
+
 
