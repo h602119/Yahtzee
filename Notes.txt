@@ -1,7 +1,6 @@
 
 PART 1:
-  * Get Highest number of equal dice
-
+  * Get Highest number of equal dices
 
 PART 2:
   * Select best combination
