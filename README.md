@@ -14,11 +14,3 @@ The project simulates the game in two main parts:
 The objective is to:
 - Develop a simulation model for Yahtzee that can assess various game strategies.
 - Create an algorithm that predicts the optimal moves to maximize the score.
-
-## Installation
-
-To set up the project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
