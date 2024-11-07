@@ -1,9 +1,11 @@
 
 PART 1:
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> 269e99aeade9525cdb683a9f42033d01ab8c5131
  * Get Highest number of equal dice
->>>>>>> e811d7d0f0c49b8deadb09c209c548d883fe1146
 
 PART 2:
  * Select best combination
