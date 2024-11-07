@@ -1,7 +1,6 @@
 
 PART 1:
-<<<<<<< HEAD
-  * Get Highest number of equal dices
+
 =======
  * Get Highest number of equal dice
 >>>>>>> e811d7d0f0c49b8deadb09c209c548d883fe1146
